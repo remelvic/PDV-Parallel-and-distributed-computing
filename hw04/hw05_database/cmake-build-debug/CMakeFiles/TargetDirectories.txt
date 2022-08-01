@@ -1,0 +1,3 @@
+/home/remelvic/studium/4.semestr/pdv/hw04/hw05_database/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/remelvic/studium/4.semestr/pdv/hw04/hw05_database/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/remelvic/studium/4.semestr/pdv/hw04/hw05_database/cmake-build-debug/CMakeFiles/DatabaseQueries.dir

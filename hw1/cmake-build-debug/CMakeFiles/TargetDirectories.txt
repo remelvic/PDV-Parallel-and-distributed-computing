@@ -1,0 +1,4 @@
+/home/remelvic/studium/4.semestr/pdv/hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/remelvic/studium/4.semestr/pdv/hw1/cmake-build-debug/CMakeFiles/threadpool.dir
+/home/remelvic/studium/4.semestr/pdv/hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/remelvic/studium/4.semestr/pdv/hw1/cmake-build-debug/CMakeFiles/threadpool.bin.dir

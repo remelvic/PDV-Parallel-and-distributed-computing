@@ -1,0 +1,3 @@
+/home/remelvic/studium/4.semestr/pdv/hw5/hw06_sort/cmake-build-debug/CMakeFiles/hw.dir
+/home/remelvic/studium/4.semestr/pdv/hw5/hw06_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/remelvic/studium/4.semestr/pdv/hw5/hw06_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
